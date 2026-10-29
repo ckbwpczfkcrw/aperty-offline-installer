@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Text+Expansion-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Launcher-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Aperty Free Installer** — Aperty is a macOS text expansion and snippet management tool that replaces abbreviations with text templates, email signatures, code snippets, and frequently typed content. Works without internet access, no account required. Full offline installation.
+**💻 Aperty Free Installer** — Aperty is a macOS application launcher and productivity tool that provides quick keyboard-driven access to applications, files, contacts, and web searches. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Aperty
 
-Aperty is a macOS text expansion and snippet management tool that replaces abbreviations with text templates, email signatures, code snippets, and frequently typed content. It provides system-wide snippet insertion with variable support and rich text formatting.
+Aperty is a macOS application launcher and productivity tool that provides quick keyboard-driven access to applications, files, contacts, and web searches. With customizable shortcuts and a fast fuzzy search interface, Aperty helps macOS users reduce mouse usage and navigate their Mac more efficiently through a customizable command palette interface.
 
 ---
 
 ## ❌ Problem: Aperty is hard to access
 
 - **macOS Only** — No Windows or Linux version
-- **Paid App** — Requires purchase
-- **Competition** — aText and Keyboard Maestro offer similar or more features
-- **Sync Limitations** — Cross-device snippet sync requires manual management
+- **Competition** — Alfred, Raycast, and built-in Spotlight offer similar functionality
+- **Commercial License** — Paid application
+- **Learning Shortcuts** — Maximum productivity requires memorizing custom shortcuts
 
 ---
 
@@ -121,7 +121,7 @@ Aperty is a macOS text expansion and snippet management tool that replaces abbre
 
 ---
 
-**Aperty Free Installer** — Aperty is a macOS text expansion and snippet management tool that replaces abbreviations with text templates, email signatures, code snippets, and frequently typed content. Install without internet connection today!
+**Aperty Free Installer** — Aperty is a macOS application launcher and productivity tool that provides quick keyboard-driven access to applications, files, contacts, and web searches. Install without internet connection today!
 
 <div align="center">
 
